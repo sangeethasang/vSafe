@@ -511,7 +511,7 @@ footer {
 }
 
 .bookDemoBody {
-  padding: 5rem 5rem;
+  /* padding: 5rem 5rem; */
 }
 
 .liveDemo {
@@ -522,8 +522,8 @@ footer {
 .showCaseBox img {
   margin-bottom: 20px;
   border-radius: 10px;
-  max-width: 100%;
-  height: auto;
+  /* max-width: 100%; */
+  /* height: auto; */
   background-color: #ffffff;
 }
 
@@ -557,7 +557,7 @@ footer {
 }
 
 .bookDemoBlock {
-  padding: 4rem 2rem;
+  padding: 2rem;
   background-color: #ffffff;
   border-radius: 2rem;
 }
