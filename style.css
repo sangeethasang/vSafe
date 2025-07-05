@@ -707,7 +707,7 @@ footer {
     padding:3rem 5rem;
   }
   .bookDemoBox{
-    margin: 4rem;
+    /* margin: 10rem; */
   }
 
   .logoBox {
@@ -749,8 +749,8 @@ footer {
   }
 
   .showCaseBox {
-    display: flex;
-    flex-direction: row;
+    /* display: flex; */
+    /* flex-direction: row; */
   }
 
   .textBox button {
