@@ -551,7 +551,7 @@ footer {
 .bookDemoBlock input {
   background-color: #f4f7fb;
   border: #f4f7fb;
-  padding: 1rem 18rem 1rem 1rem;
+  padding: 1rem 20rem 1rem 1rem;
   margin-bottom: 2rem;
   border-radius: 0.3rem;
 }
@@ -710,6 +710,7 @@ footer {
   .bookDemoBox{
     /* margin: 10rem; */
     /* padding: 0rem 5rem; */
+    margin:2rem 0rem;
   }
 
   .logoBox {
