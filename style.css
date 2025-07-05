@@ -557,7 +557,7 @@ footer {
 }
 
 .bookDemoBlock {
-  padding: 2rem;
+  padding: 2rem 0rem;
   background-color: #ffffff;
   border-radius: 2rem;
 }
@@ -766,7 +766,7 @@ footer {
   .caseBox {
     display: grid;
     grid-template-columns: 1fr;
-    padding: 0rem 5rem;
+    /* padding: 0rem 5rem; */
   }
   .secureBody {
     padding: 3rem 0rem;
