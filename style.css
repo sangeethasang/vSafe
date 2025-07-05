@@ -709,6 +709,7 @@ footer {
   }
   .bookDemoBox{
     /* margin: 10rem; */
+    padding: 0rem 5rem;
   }
 
   .logoBox {
@@ -767,7 +768,7 @@ footer {
   .caseBox {
     display: grid;
     grid-template-columns: 1fr;
-    /* padding: 0rem 5rem; */
+    padding: 0rem 5rem;
   }
   .secureBody {
     padding: 3rem 0rem;
